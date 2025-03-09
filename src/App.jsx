@@ -25,6 +25,8 @@ function App() {
           Edit <code>src/App.jsx</code> and save to test HMR
         </p>
       </div>
+      <div className="cooper">Cooper Black</div>
+      <div className="fonesia">Fonesia Bold</div>
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
       </p>

@@ -37,6 +37,22 @@
   padding: 2em;
 }
 
+@font-face {
+  font-family: cooper-black;
+  src: url(../COOPBL.TTF);
+}
+.cooper {
+  font-family: cooper-black;
+}
+
+@font-face {
+  font-family: fonesia;
+  src: url(../Fonesia-Bold.ttf);
+}
+.fonesia {
+  font-family: fonesia;
+}
+
 .read-the-docs {
   color: #888;
 }
